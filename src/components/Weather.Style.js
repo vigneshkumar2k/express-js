@@ -36,12 +36,12 @@ export const InputContainer = styled.section`
     to right,
     #7bc6cc,
     #be93c5
-  ); /* Chrome 10-25, Safari 5.1-6 */
+  );
   background: linear-gradient(
     to right,
     #7bc6cc,
     #be93c5
-  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  ); 
 `;
 
 export const SearchField = styled.div`
